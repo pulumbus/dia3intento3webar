@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Dia3inento3webAR",
+"productVersion": "0.1",
+"dataUrl": "Dia3Intento3webAR.data.unityweb",
+"wasmCodeUrl": "Dia3Intento3webAR.wasm.code.unityweb",
+"wasmFrameworkUrl": "Dia3Intento3webAR.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.23f1"
+}
